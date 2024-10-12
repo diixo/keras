@@ -1,5 +1,9 @@
 ﻿# Keras: Deep Learning for humans
 
+#### Keras 2.4.3
+
+Keras is compatible with Python 3.6+
+
 ![Keras logo](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
 
 [![Build Status](https://travis-ci.org/keras-team/keras.svg?branch=master)](https://travis-ci.org/keras-team/keras)
